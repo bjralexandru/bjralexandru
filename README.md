@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bjralexandru
-- 👀 I’m interested in Chemistry/ Material Science/ IoT and lately programming.
-- 🌱 I’m currently learning Excel, SQL and Python.
+- 👋 Hi, I’m Alex
+- 👀 I have a BSc and MSc in Chemistry, but lately got more involved with Data Engineering.
+- 🌱 I’m currently learning SQL and Python.
 - 📫 How to reach me? Send me an email at bjalexandru@gmail.com 
 
 <!---
