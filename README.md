@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
-- 👀 I have a BSc and MSc in Chemistry, but lately got more involved with Data Engineering.
-- 🌱 I’m currently learning SQL and Python.
+- 👀 I have a BSc and MSc in Chemistry, but lately got more involved with programming.
+- 🌱 I’m currently learning Python, Docker, CI/CD and K8S.
 - 📫 How to reach me? Send me an email at bjalexandru@gmail.com 
 
 <!---
