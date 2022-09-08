@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
 - 👀 I have a BSc and MSc in Chemistry, but for the last 2 years I've been programming constantly in my spare time.
-- 🌱 I’m currently learning Golang.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me? Send me an email at bjalexandru@gmail.com 
 
 <!---
