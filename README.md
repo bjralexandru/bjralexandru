@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SECM-Fitter](https://github.com/bjralexandru/SECM-Fitter)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Flask**
 
 - 👨‍💻 All of my projects are available at [https://bujorul.com](https://bujorul.com)
 
