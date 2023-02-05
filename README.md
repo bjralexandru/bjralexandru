@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **bjalexandru@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/mdgm03](https://rb.gy/mdgm03)
-
 - ⚡ Fun fact **I like clay modeling**
 
 <h3 align="left">Connect with me:</h3>
